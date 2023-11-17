@@ -102,7 +102,7 @@ def print_board(s):
 
 if __name__ == '__main__':
     s = [BOARD_EMPTY for _ in range(9)]
-    print('|------- WELCOME TO TIC TAC TOE -----------|')
+    print('|------- WELCOME OVHAY KUMAR(1BM21CS122) -----------|')
     print('You are X while the Computer is O')
 
     while terminal(s) is None:
